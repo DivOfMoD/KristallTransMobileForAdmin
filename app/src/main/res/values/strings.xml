@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KristallTrans Mobile for Admin</string>
+    <string name="info">\nIcon made by <a href="http://www.flaticon.com/authors/madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com">www.flaticon.com</a>\n\nИнформация о погоде предоствалена сервисом\n<a href="https://p.ya.ru/">Почасовой прогноз погоды Яндекс</a></string>
+</resources>
